@@ -4,6 +4,7 @@
 #include "common.h"
 
 // RGB24 Image Format
+// TODO: Create ToPPM() https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage/theppmimageformat
 
 class Image {
   public:
